@@ -1,0 +1,8 @@
+{
+  "input": "data/TinyStoriesV2-GPT4-train.txt",
+  "vocab_size": 10000,
+  "train_seconds": 26.8,
+  "peak_rss_mb_main_process": 233.8,
+  "longest_token": " accomplishment",
+  "longest_token_bytes": 15
+}

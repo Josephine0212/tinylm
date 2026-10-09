@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+data/
+runs/
+artifacts/tokenizer-smoke/
+*.pt
+!tests/fixtures/ts_tests/model.pt
+_to_delete/
+.DS_Store
